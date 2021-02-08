@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=150px src="./intrusion-detection.png" alt="Intrusion-Detection"></a>
+ <img height=200px src="./intrusion-detection.png" alt="Intrusion-Detection"></a>
 </p>
 
 <h1 align="center">Log Based Intrusion Detection</h1>
