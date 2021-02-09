@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img height=200px src="./intrusion-detection.png" alt="Intrusion-Detection"></a>
+ <img height=200px src="./intrusion-detection.png" alt="Intrusion-Detection">
 </p>
 
 <h1 align="center">Log Based Intrusion Detection</h1>
@@ -36,8 +35,7 @@ We are getting the following information as output:
 * Whether the system is susceptible to intrusion or not.
 
 <p align="center">
-  <a href="" rel="noopener">
- <img height=300px src="./output.png" alt="Output"></a>
+ <img height=300px src="./output.png" alt="Output">
 </p>
   
 ------------------------------------------
