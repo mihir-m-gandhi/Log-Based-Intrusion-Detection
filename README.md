@@ -35,8 +35,6 @@ We are getting the following information as output:
 * The predicted output of the model based on these parameters.
 * Whether the system is susceptible to intrusion or not.
 
-The code and output can be seen on Google Collab [here]().
-
 <p align="center">
   <a href="" rel="noopener">
  <img height=300px src="./output.png" alt="Output"></a>
